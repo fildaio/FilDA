@@ -63,19 +63,30 @@ FilDA包含两方面基础协议：借贷协议和质押分币协议。
 ### Quicksilver
 基于Compound协议修改的借贷协议。
 
-* 合约地址（Heco Mainnet） 
+- 合约地址（Heco Mainnet） 
 
 |       Contract       |                  Address                   |
 | :------------------: | :----------------------------------------: |
-| fHT | 0x824151251B38056d54A15E56B73c54ba44811aF8 |
 | Comptroller | 0xb74633f2022452f377403B638167b0A135DB096d |
 | ElaPriceOracle | 0x0a6a06003417dA7BCF1C2bdc27e2A30C38EfF4Ad |
+
+- fTokens地址
+
+|       Contract       |                  Address                   |
+| :------------------: | :----------------------------------------: |
 | FilDA | 0xe36ffd17b2661eb57144ceaef942d95295e637f0 |
-| ELA | 0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c |
+| fHT | 0x824151251B38056d54A15E56B73c54ba44811aF8 |
 | fELA | 0xb6B9B25C18a7fa951379538a988605478B5C0940 |
-| HFIL | 0xae3a768f9ab104c69a7cd6041fe16ffa235d1810 |
 | fHFIL | 0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518 |
-| USDT | 0x581edd7eab23896513360d7ee8dfe07a5cad2abd |
-| fUSDT | 0x2a2EF6d5EEF3896578fD0Cf070E38d55e734Aa8E |
+| fHUSD | 0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0 |
+
+- HECO链上代币地址
+
+|       Contract       |                  Address                   |
+| :------------------: | :----------------------------------------: |
+| ELA | 0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c |
+| HFIL | 0xae3a768f9ab104c69a7cd6041fe16ffa235d1810 |
+| HUSD | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 |
+| HFIL | 0xae3a768f9ab104c69a7cd6041fe16ffa235d1810 |
 
 ### CandyDispenser
