@@ -87,6 +87,5 @@ FilDA包含两方面基础协议：借贷协议和质押分币协议。
 | ELA | 0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c |
 | HFIL | 0xae3a768f9ab104c69a7cd6041fe16ffa235d1810 |
 | HUSD | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 |
-| HFIL | 0xae3a768f9ab104c69a7cd6041fe16ffa235d1810 |
 
 ### CandyDispenser
