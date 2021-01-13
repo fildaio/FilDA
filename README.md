@@ -50,11 +50,10 @@ FilDA代币在Elastos链上合约地址：
 流动性挖矿占整体代币分配的40%
 提示：流动性池的种类和比例会不定期调整。
 
-第一周（1.13-1.20）流动性挖矿计划
-交易对		    交易所	        挖矿比例
-HUSD-FILDA	MDEX	        40%
-ELA-FILDA	  CircleSwap	  50%
-CIR-FILDA 	CircleSwap	  10%
+第一周（1.13-1.19）流动性挖矿计划
+| FilDA-ELA | FilDA-HUSD | Circle-FilDA |
+| :-------: | :--------: | :----------: |
+|    50%    |     40%    |     10%      |
 
 ### DAO治理挖矿
 DAO治理激励占整体社区激励15%，存FilDA挖FilDA，按质押FilDA占总体质押数目的比例来瓜分奖励池。
