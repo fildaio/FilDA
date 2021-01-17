@@ -41,27 +41,19 @@ FilDA代币在Elastos链上合约地址：
 借贷挖矿占整体40%，存和借各获得20%的代币，
 Lending mining account for 40% of the total FilDA distribution, while lending and borrowing each get 20% of tokens.
 
+当前支持的代币及相应的挖矿比例
+supported tokens and the corresponding mining ratio.
 
-Week One (1.5-1.12)
-Tokens supported in the  and the corresponding mining ratio
-第一周（1.5-1.12）支持的代币及相应的挖矿比例
+|    HT    |    ELA    |    HFIL    |    HUSD    |    HPT    |    ETH     |    HBTC    |   HDOT    |    HBCH    |    HLTC    |
+| :------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: |
+|   10%    |    10%    |     8%     |     25%    |     5%    |    10%     |     15%    |     5%    |     7%     |      5%    |
 
-|    HT    |    ELA    |    HUSD    |    HFIL    |
-| :------: | :-------: | :--------: | :--------: |
-|   15%    |    30%    |    30%     |     25%    |
+抵押率
+Pledge Rate
 
-
-
-Assets such as HBTC, HETH and HPT will be supported on January 13. 
-Week Two (1.13-1.20) supported tokens and the corresponding mining ratio.
-
-1月13日开启HBTC，HETH和HPT等资产借贷。
-第二周（1.13-1.20）支持的代币及相应的挖矿比例
-
-|    HT    |    ELA    |    HUSD    |    HFIL    |   HBTC    |    ETH    |     HPT    |
-| :------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: |
-|   10%    |    25%    |    20%     |     10%    |    10%    |    10%     |     15%    |
-
+|    HT    |    ELA    |    HFIL    |    HUSD    |    HPT    |    ETH     |    HBTC    |   HDOT    |    HBCH    |    HLTC    |
+| :------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: |
+|   80%    |    40%    |     60%    |     90%    |    40%    |    80%     |     85%    |    70%    |    80%     |     75%    |
 
 
 ### 
@@ -130,6 +122,9 @@ FilDA包含两方面基础协议：借贷协议和质押分币协议。
 | fHBTC | 0xF2a308d3Aea9bD16799A5984E20FDBfEf6c3F595 |
 | fETH | 0x033F8C30bb17B47f6f1f46F3A42Cc9771CCbCAAE |
 | fHPT | 0x749E0198f12559E7606987F8e7bD3AA1DE6d236E |
+| fHDOT | 0xCca471B0d49c0d4835a5172Fd97ddDEA5C979100 |
+| fHBCH | 0x09e3d97A7CFbB116B416Dae284f119c1eC3Bd5ea |
+| fHLTC | 0x4937A83Dc1Fa982e435aeB0dB33C90937d54E424 |
 
 - HECO链上代币地址
 
@@ -142,5 +137,16 @@ FilDA包含两方面基础协议：借贷协议和质押分币协议。
 | ETH | 0x64ff637fb478863b7468bc97d30a5bf3a428a1fd |
 | HPT | 0xe499ef4616993730ced0f31fa2703b92b50bb536 |
 | HDOT | 0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3 |
+| HBCH | 0xef3cebd77e0c52cb6f60875d9306397b5caca375 |
+| HLTC | 0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4 |
 
 ### CandyDispenser
+
+资金池合约
+
+|       Contract       |                  Address                   |
+| :------------------: | :----------------------------------------: |
+| FilDA-ELA | 0x13314EA4cD92bC57b6631C4F07BE0aF5D6750DBa | 
+| FilDA-HUSD | 0xc7a98B064BEbaFABb16f20700DcC974A8a7e03EA | 
+| Insurance-FilDA | 0xb61690Cae60f83a644f9bC0c9F8bE2bd122A8444 | 
+
