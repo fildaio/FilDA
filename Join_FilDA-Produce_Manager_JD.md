@@ -22,7 +22,7 @@ We’re looking for an enthusiastic, self-motivated Product thinker and doer. Yo
 - Prior experience building in crypto/DeFi
 
 ### How to apply
-Please send an email to dev@filda.io with the subject "[Your name] — Front End Developer Application". Please attach any evidence that you are qualified for the job.
+Please send an email to dev@filda.io with the subject "[Your name] — Product manager Application". Please attach any evidence that you are qualified for the job.
 
 ### Important
 Remote/Global
