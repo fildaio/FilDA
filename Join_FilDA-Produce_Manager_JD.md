@@ -25,7 +25,7 @@ We’re looking for an enthusiastic, self-motivated Product thinker and doer. Yo
 Please send an email to dev@filda.io with the subject "[Your name] — Product manager Application". Please attach any evidence that you are qualified for the job.
 
 ### Important
-Remote/Global
-Part-time/Full-time
-Pay in USDT (Weekly)
+- Remote/Global
+- Part-time/Full-time
+- Pay in USDT (Weekly)
 
