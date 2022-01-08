@@ -29,6 +29,6 @@ Here is FilDA Lab, an on-chain lending platform that is currently running on mul
 Please send an email to dev@filda.io with the subject "[Your name] — Solidity Developer Application". Please attach any evidence that you are qualified for the job.
 
 ### Important
-Remote/Global
-Part-time/Full-time
-Pay in USDT (Weekly)
+- Remote/Global
+- Part-time/Full-time
+- Pay in USDT (Weekly)
