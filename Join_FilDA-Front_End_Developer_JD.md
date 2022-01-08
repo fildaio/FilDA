@@ -25,3 +25,8 @@ We’re looking for a passionate and hard working web3 developer to help us buil
 
 ### How to apply
 Please send an email to dev@filda.io with the subject "[Your name] — Front End Developer Application". Please attach any evidence that you are qualified for the job.
+
+### Important
+Remote/Global
+Part-time/Full-time
+Pay in USDT (Weekly)
